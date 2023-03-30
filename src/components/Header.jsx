@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import { HiOutlineSearch, HiOutlineChatAlt, HiOutlineBell } from 'react-icons/hi'
 import { Menu, Popover, Transition } from '@headlessui/react'
-import photo from '../assets/Lucky_cat_small.png'
 
 export default function Header({ lists, handleDelete }) {
+     const myUserId = localStorage.getItem("userId")
      return (
           <div className='flex justify-between h-16 bg-white px-4 items-center border-b border-gray-200'>
                <div className='relative'>
@@ -107,7 +107,9 @@ export default function Header({ lists, handleDelete }) {
                                                        'active:bg-gray-200 rounded-sm px-4 py-2 text-gray-700 cursor-pointer focus:bg-gray-200'
                                                        }`}
                                              >
-                                                  Your Profile
+                                                  {lists.map((item) => (
+                                                       item._id === myUserId && <p>{item.username}</p>
+                                                  ))}
                                              </div>
                                         )}
                                    </Menu.Item>
