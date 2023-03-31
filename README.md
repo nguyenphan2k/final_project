@@ -16,6 +16,7 @@
 
 #### Role User: You able to edit yourself, you do not delete yourself and another users
 ![Screenshot_2](https://user-images.githubusercontent.com/72658608/229010415-11c3a671-e2c1-4faa-9f52-9b730e75072a.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/72658608/229014747-3496d492-1e15-4ccc-a697-16bed707f360.jpg)
 
 ## 3 Technology
   #### Frontend: ReactJs, Redux, TailwindCss, React-router-dom, React-icons, React-toastify, React-paginate, Axios
