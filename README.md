@@ -6,10 +6,10 @@
 ## 2 Overview
 
 #### Form Register: If you don't have an account, you will register an account
-![Register](https://user-images.githubusercontent.com/72658608/229008344-c782e123-c5b6-484a-a5a1-9620fbcab52b.jpg)
+![Screenshot_5](https://user-images.githubusercontent.com/72658608/229017057-15e1dad1-191b-459b-97a8-8ab7b9e3e00a.jpg)
 
 #### Form Login: After register, you will login with your account
-![Login](https://user-images.githubusercontent.com/72658608/229008447-ed423d1f-926a-4bcf-98df-fcdb8e72e0a4.jpg)
+![Screenshot_4](https://user-images.githubusercontent.com/72658608/229017004-407da5b0-9157-4518-b226-494198900c6e.jpg)
 
 #### Role Admin: You able to delete users
 ![Screenshot_1](https://user-images.githubusercontent.com/72658608/229009278-60ec1e15-ec48-479c-b96e-631f8355182d.jpg)
