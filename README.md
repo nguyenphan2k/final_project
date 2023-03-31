@@ -16,7 +16,7 @@
 
 ## 2 Technology
   #### Frontend: ReactJs, Redux, TailwindCss, React-router-dom, React-icons, React-toastify, React-paginate, Axios
-  #### Backend: ExpressJs, MongoDB, Auhthentication(JWT Token)
+  #### Backend: NodeJs, ExpressJs, MongoDB, Auhthentication(JWT Token)
 
 
 
