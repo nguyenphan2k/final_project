@@ -1,18 +1,27 @@
-# Getting Started with Create React App
+# CRUD 
+## 1 Introduce
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### CRUD is an acronym that comes from the world of computer programming and refers to the four functions that are considered necessary to implement a persistent storage application: create, read, update and delete.
+  
+## 2 Overview
 
-## Available Scripts
+#### Form Register: If you don't have an account, you will register an account
+![Register](https://user-images.githubusercontent.com/72658608/229008344-c782e123-c5b6-484a-a5a1-9620fbcab52b.jpg)
 
-In the project directory, you can run:
+#### Form Login: After register, you will login with your account
+![Login](https://user-images.githubusercontent.com/72658608/229008447-ed423d1f-926a-4bcf-98df-fcdb8e72e0a4.jpg)
 
-### `npm start`
+#### Role Admin: You able to delete user
+![Screenshot_1](https://user-images.githubusercontent.com/72658608/229009278-60ec1e15-ec48-479c-b96e-631f8355182d.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Role User: You able to edit yourself, you do not delete yourself and another user
+![Screenshot_2](https://user-images.githubusercontent.com/72658608/229010415-11c3a671-e2c1-4faa-9f52-9b730e75072a.jpg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 3 Technology
+  #### Frontend: ReactJs, Redux, TailwindCss, React-router-dom, React-icons, React-toastify, React-paginate, Axios
+  #### Backend: ExpressJs, MongoDB, Auhthentication(JWT Token)
+
+
 
 
 
