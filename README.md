@@ -1,9 +1,5 @@
-# CRUD 
-## 1 Introduce
-
-#### CRUD is an acronym that comes from the world of computer programming and refers to the four functions that are considered necessary to implement a persistent storage application: create, read, update and delete.
-  
-## 2 Overview
+# FINAL_PROJECT
+## 1 Overview
 
 #### Form Register: If you don't have an account, you will register an account
 ![Screenshot_5](https://user-images.githubusercontent.com/72658608/229017057-15e1dad1-191b-459b-97a8-8ab7b9e3e00a.jpg)
@@ -18,7 +14,7 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/72658608/229010415-11c3a671-e2c1-4faa-9f52-9b730e75072a.jpg)
 ![Screenshot_3](https://user-images.githubusercontent.com/72658608/229014747-3496d492-1e15-4ccc-a697-16bed707f360.jpg)
 
-## 3 Technology
+## 2 Technology
   #### Frontend: ReactJs, Redux, TailwindCss, React-router-dom, React-icons, React-toastify, React-paginate, Axios
   #### Backend: ExpressJs, MongoDB, Auhthentication(JWT Token)
 
