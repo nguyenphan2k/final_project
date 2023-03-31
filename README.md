@@ -11,10 +11,10 @@
 #### Form Login: After register, you will login with your account
 ![Login](https://user-images.githubusercontent.com/72658608/229008447-ed423d1f-926a-4bcf-98df-fcdb8e72e0a4.jpg)
 
-#### Role Admin: You able to delete user
+#### Role Admin: You able to delete users
 ![Screenshot_1](https://user-images.githubusercontent.com/72658608/229009278-60ec1e15-ec48-479c-b96e-631f8355182d.jpg)
 
-#### Role User: You able to edit yourself, you do not delete yourself and another user
+#### Role User: You able to edit yourself, you do not delete yourself and another users
 ![Screenshot_2](https://user-images.githubusercontent.com/72658608/229010415-11c3a671-e2c1-4faa-9f52-9b730e75072a.jpg)
 
 ## 3 Technology
